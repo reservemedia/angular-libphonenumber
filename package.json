@@ -10,6 +10,7 @@
   "homepage": "https://github.com/cwill747/angular-libphonenumber",
   "scripts": {
     "start": "npm install; bower install; gulp;",
+    "gulp": "gulp",
     "test": "gulp test"
   },
   "keywords": [
